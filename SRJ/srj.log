@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.8.7)  15 AUG 2024 12:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.8.7)  15 AUG 2024 12:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**srx.tex
-(./srx.tex
+**srj.tex
+(./srj.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
 (/usr/share/texlive/texmf-dist/tex/latex/ieeetran/IEEEtran.cls
@@ -1507,8 +1507,8 @@ LaTeX Font Info:    Trying to load font information for OT1+txr on input line 5
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txr.fd
 File: ot1txr.fd 2000/12/15 v3.1
 )
-No file srx.aux.
-\openout1 = `srx.aux'.
+No file srj.aux.
+\openout1 = `srj.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 52.
 LaTeX Font Info:    Trying to load font information for OML+txmi on input line 
@@ -1625,7 +1625,7 @@ Package gensymb Info: Using \textohm for \ohm on input line 52.
 Package gensymb Info: Using \textmu for \micro on input line 52.
 Package hyperref Info: Link coloring OFF on input line 52.
 \@outlinefile=\write5
-\openout5 = `srx.out'.
+\openout5 = `srj.out'.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: longtable package is loaded.
@@ -1679,8 +1679,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 190--193
  []
 
 
-Underfull \hbox (badness 3417) in paragraph at lines 200--203
-[]\OT1/txr/m/n/12 The value of a for which the sum of
+Underfull \hbox (badness 3271) in paragraph at lines 200--203
+[]\OT1/txr/m/n/12 The value of $\OML/txmi/m/it/12 a$ \OT1/txr/m/n/12 for which 
+the sum of
  []
 
 
@@ -1757,18 +1758,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 324--327
 
 [2
 
-] (./srx.aux)
+] (./srj.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
 
 
-Package rerunfilecheck Warning: File `srx.out' has changed.
+Package rerunfilecheck Warning: File `srj.out' has changed.
 (rerunfilecheck)                Rerun to get outlines right
 (rerunfilecheck)                or use package `bookmark'.
 
-Package rerunfilecheck Info: Checksums for `srx.out':
+Package rerunfilecheck Info: Checksums for `srj.out':
 (rerunfilecheck)             Before: <no file>
 (rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
@@ -1786,7 +1787,7 @@ exmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1/ur
 w/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on srx.pdf (2 pages, 53990 bytes).
+Output written on srj.pdf (2 pages, 54054 bytes).
 PDF statistics:
  143 PDF objects out of 1000 (max. 8388607)
  123 compressed objects within 2 object streams
